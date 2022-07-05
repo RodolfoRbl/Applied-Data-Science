@@ -4,4 +4,6 @@ avance 2
 
 modif de principal
 
-modif master 
+modif master
+
+modif despues de merge de josh
